@@ -4,10 +4,10 @@
 > Mariam Davis
 > Stephane Pacheco Fernandes
 
-# Bried description of the project
+## Bried description of the project
 
-# Approach
+## Approach
 
-# Summary of results table
+## Summary of results table
 
-# Explainatory video
+## Explainatory video
