@@ -1,8 +1,8 @@
 # DMML2022_ROLEX
 
 ## Participants
-> Mariam Davis
-> Stephane Pacheco Fernandes
+- Mariam Davis
+- Stephane Pacheco Fernandes
 
 ## Bried description of the project
 
