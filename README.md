@@ -4,7 +4,7 @@
 - Mariam Davis
 - Stephane Pacheco Fernandes
 
-## Bried description of the project
+## Brief description of the project
 
 ## Approach
 
