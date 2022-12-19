@@ -51,4 +51,5 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 ## Explainatory video
 ## Sources
+- [Course GitHub](https://github.com/michalis0/DataMining_and_MachineLearning)
 - [kNN Hyperparameter Optimization](https://niapy.org/en/stable/tutorials/hyperparameter_optimization.html)
