@@ -18,7 +18,7 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 My name is Stéphane I am 26 years old and I come from Geneva. I am curious by nature and I love to learn new things. I really enjoy working in teams on IT related topics and find solutions to problems. I love programming and in particular implementing Android applications.
 
 ## Approach
-In order to complete this project, we have an annotated dataset where each record corresponds to a sentence and the indication of its level. Here is an example below:
+In order to complete this project, we had at our disposal an annotated dataset where each record corresponds to a sentence and the indication of its level. Here is an example:
 
 | id | sentence |difficulty|
 | ------------- | ------------- |----------|
@@ -28,7 +28,7 @@ In order to complete this project, we have an annotated dataset where each recor
 | 2079	 | Le village québécois s'appelait jadis "la descente des femmes"	  |C2|
 | 3999  | Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ?	  |B2|
 
-At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and tried with the following basic techniques for multiclass classification: Logistic regression, k-nearest neighbors (kNN), Decision Tree, Random Forests. 
+At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and used the obtained data to train some basic models for multiclass classification such as Logistic regression, k-nearest neighbors (kNN), Decision Tree and Random Forests. 
 
 
 ## Summary of results table
