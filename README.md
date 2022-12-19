@@ -36,12 +36,17 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 
 ## Summary of results table
-| x | x |x| x | x |x|
+|  | x |x| x | x |x|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| x | x |x| x | x |x|
-| x | x |x| x | x |x|
-| x | x |x| x | x |x|
-| x | x |x| x | x |x|
+| Precision | x |x| x | x |x|
+| Recall | x |x| x | x |x|
+| F1-score | x |x| x | x |x|
+| Accuracy | x |x| x | x |x|
+
+					
+					
+					
+
 
 
 ## Explainatory video
