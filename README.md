@@ -12,8 +12,7 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 - Bsc Infomation Systems, University of Geneva
 - Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
 
-My name is Stéphane I am 26 years old and I come from Geneva. I really enjoy working in teams on IT related topics. I am curious by nature and I love to learn new things.
-
+My name is Stéphane I am 26 years old and I come from Geneva. I am curious by nature and I love to learn new things. I really enjoy working in teams on IT related topics and find solutions to problems. I love programming and in particular implementing Android applications.
 
 
  
