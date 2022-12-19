@@ -19,6 +19,7 @@ My name is Stéphane I am 26 years old and I come from Geneva. I am curious by n
 
 ## Approach
 In order to complete this project, we have an annotated dataset where each record corresponds to a sentence and the indication of its level. Here is an example below:
+
 | id | sentence |difficulty|
 | ------------- | ------------- |----------|
 | 95  | Mon ami ne répond pas au téléphone.	 |A1|
@@ -26,6 +27,7 @@ In order to complete this project, we have an annotated dataset where each recor
 | 1992	 | Il veut tout manger.	  |A2|
 | 2079	 | Le village québécois s'appelait jadis "la descente des femmes"	  |C2|
 | 3999  | Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ?	  |B2|
+
 At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and tried with the following basic techniques for multiclass classification: Logistic regression, k-nearest neighbors (kNN), Decision Tree, Random Forests. 
 
 
