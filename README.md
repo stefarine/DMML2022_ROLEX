@@ -20,9 +20,9 @@ My name is Stéphane I am 26 years old and I come from Geneva. I am curious by n
 ## Approach
 To carry out this project, we have an annotated dataset where each record corresponds to a sentence and the indication of its level. At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and tried with the following basic techniques: Logistic regression, k-nearest neighbors (kNN), Decision Tree, Random Forests. 
 
-| First Header  | Second Header |difficulty|
+| id | sentence |difficulty|
 | ------------- | ------------- |----------|
-| Content Cell  | Content Cell  |jsjsjsjsjs|
+| 95  | Mon ami ne répond pas au téléphone.	 |A1|
 | Content Cell  | Content Cell  |jsjsjsjsjs|
 ## Summary of results table
 
