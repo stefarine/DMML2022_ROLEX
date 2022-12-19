@@ -5,7 +5,7 @@
 - Stephane Pacheco Fernandes
 
 ## Brief description of the project
-[Prof. Michalis Vlachos]([https://github.com/michalis0](https://www.linkedin.com/in/michalis-vlachos/))
+[Prof. Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/)
 
 ## Approach
 
