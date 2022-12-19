@@ -37,6 +37,7 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 ## Summary of results table
 | x | x |x| x | x |x|
+| ------------- | ------------- |----------| ------------- | ------------- |----------|
 | x | x |x| x | x |x|
 | x | x |x| x | x |x|
 | x | x |x| x | x |x|
