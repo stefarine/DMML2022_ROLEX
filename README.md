@@ -5,12 +5,12 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 
 ## Participants
 [Mariam Davis](https://www.linkedin.com/in/mariam-davis-439385209/)
-2019 - 2022 Bsc Management, HEC Lausanne - University of Lausanne
-2022 - 2024 Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
+- 2019 - 2022 Bsc Management, HEC Lausanne - University of Lausanne
+- 2022 - 2024 Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
 
 [Stéphane Pacheco Fernandes](https://www.linkedin.com/in/stéphane-pacheco-fernandes)
-2018 - 2021 Bsc Infomation Systems, University of Geneva
-2022 - 2024 Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
+- 2018 - 2021 Bsc Infomation Systems, University of Geneva
+- 2022 - 2024 Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
 
 
 
