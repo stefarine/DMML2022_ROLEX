@@ -1,4 +1,6 @@
 # DMML2022_ROLEX
+<img align="venter" width="100" height="100" src="https://user-images.githubusercontent.com/57952280/208384889-e102268f-0458-42e2-bb84-b92f1337bbfd.png">
+
 ![NicePng_artificial-intelligence-png_967460](https://user-images.githubusercontent.com/57952280/208384889-e102268f-0458-42e2-bb84-b92f1337bbfd.png)
 
 ## Brief description of the project
