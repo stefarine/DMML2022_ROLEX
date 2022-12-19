@@ -5,7 +5,7 @@
 - Stephane Pacheco Fernandes
 
 ## Brief description of the project
-Within the context of the [Data Mining and Machine Learning](https://hecnet.unil.ch/hec/syllabus/descriptif/2457?dyn_lang=fr) course given by Prof. [Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/) we have realized this project. It is about predicting the difficulty level of a sentence (A1, A2, B1, ...) using machine learning techniques.
+Within the context of the [Data Mining and Machine Learning](https://hecnet.unil.ch/hec/syllabus/descriptif/2457?dyn_lang=fr) course given by Prof. [Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/) we have realized this project. It is about predicting the difficulty level of a sentence (A1-C2) using machine learning techniques. To carry out this task we have at our disposal a dataset of 5000 entries which contains annotated sentences to train our models.
 
  
 ## Approach
