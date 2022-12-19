@@ -30,7 +30,9 @@ In order to complete this project, we had at our disposal an annotated dataset w
 
 At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and used the obtained data to train some basic models for multiclass classification such as Logistic regression, k-nearest neighbors (kNN), Decision Tree and Random Forests. The results were not particularly good so we tried other models. For example, we can cite the naive bayes classifier for mulinomial models but the results were not much better. At this point it was the Logistic regression with cross validation that gave us the best results.
 
-Then, we tried to combine several models to obtain better results by implementing a voting set. But once again, the results were not much better. So we decided to change our approach. We cleaned up our data by removing stopwords, punctuation and doing lemitization. Then, we processed the tokens using Doc2Vec. Following this, we trained our previously mentioned models, but the results were not much better.
+Then, we tried to combine several models to obtain better results by implementing a voting set. But once again, the results were not much better. So we decided to change our approach. We cleaned up our data by removing stopwords, punctuation and doing lemitization. Then, we processed the tokens using Doc2Vec. Following this, we trained our previously mentioned models, but the results were not much better. 
+
+Finally, we chose a radically different method using a BERT (Bidirectional Encoder Representations from Transformers); this is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. We specifically used camemBERT, which is very well adapted for pre-training in French.
 
 
 ## Summary of results table
