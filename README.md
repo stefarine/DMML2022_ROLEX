@@ -51,6 +51,4 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 ## Explainatory video
 ## Sources
-
-[Knn Hyperparameter optimisation] (https://niapy.org/en/stable/tutorials/hyperparameter_optimization.html)
-- [Knn Hyperparameter optimisation] (https://niapy.org/en/stable/tutorials/hyperparameter_optimization.html)
+- [Knn Hyperparameter optimisation](https://niapy.org/en/stable/tutorials/hyperparameter_optimization.html)
