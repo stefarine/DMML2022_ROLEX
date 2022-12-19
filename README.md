@@ -1,6 +1,6 @@
 # DMML2022_ROLEX
 <p align="center">
-<img height=100 src="https://user-images.githubusercontent.com/57952280/208384889-e102268f-0458-42e2-bb84-b92f1337bbfd.png">
+<img height=200 src="https://user-images.githubusercontent.com/57952280/208384889-e102268f-0458-42e2-bb84-b92f1337bbfd.png">
 </p>
 
 ## Brief description of the project
