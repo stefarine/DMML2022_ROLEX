@@ -28,7 +28,7 @@ In order to complete this project, we had at our disposal an annotated dataset w
 | 2079	 | Le village québécois s'appelait jadis "la descente des femmes"	  |C2|
 | 3999  | Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ?	  |B2|
 
-At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and used the obtained data to train some basic models for multiclass classification such as Logistic regression, k-nearest neighbors (kNN), Decision Tree and Random Forests. 
+At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and used the obtained data to train some basic models for multiclass classification such as Logistic regression, k-nearest neighbors (kNN), Decision Tree and Random Forests. The results were not particularly good so we tried other models. For example, we can cite the "naive bayes classifier" for mulinomial models but the results were not much better, at this point it was the Logistic regression with cross validation that gave us the best results.
 
 
 ## Summary of results table
