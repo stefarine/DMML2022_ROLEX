@@ -43,12 +43,12 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 | F1-score | 0.4640|0.3022| 0.2947 | 0.4014 |0.4737|
 | Accuracy | 0.4667 |0.3187| 0.3000 | 0.4135 |0.4760|
 
-|  | LinearSVC |x	| x | x |CamemBERT|
+|  | MultinomialNB|x	| x | x |CamemBERT|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |x|x| x | x |x|
-| Recall |x|x| x | x |x|
-| F1-score | x|x| x | x |x|
-| Accuracy | x |x| x | x |x|
+| Precision |0.5014|x| x | x |x|
+| Recall |0.4839|x| x | x |x|
+| F1-score | 0.4795|x| x | x |x|
+| Accuracy | 0.4823 |x| x | x |x|
 
 					
 					
