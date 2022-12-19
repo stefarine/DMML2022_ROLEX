@@ -23,7 +23,10 @@ To carry out this project, we have an annotated dataset where each record corres
 | id | sentence |difficulty|
 | ------------- | ------------- |----------|
 | 95  | Mon ami ne répond pas au téléphone.	 |A1|
-| Content Cell  | Content Cell  |jsjsjsjsjs|
+| 993  | Il m'a donné un coup de poing dans la figure.|B1|
+| 1992	 | Il veut tout manger.	  |A2|
+| 2079	 | Le village québécois s'appelait jadis "la descente des femmes"	  |C2|
+| 3999  | Carlos Ghosn sera-t-il le dernier protagoniste de sa folle escapade à demeurer hors d'atteinte de la justice ?	  |B2|
 ## Summary of results table
 
 ## Explainatory video
