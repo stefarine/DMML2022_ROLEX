@@ -18,7 +18,7 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 My name is Stéphane I am 26 years old and I come from Geneva. I am curious by nature and I love to learn new things. I really enjoy working in teams on IT related topics and find solutions to problems. I love programming and in particular implementing Android applications.
 
 ## Approach
-To carry out this project, we have an annotated dataset where each record corresponds to a sentence and the indication of its level. At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and tried with the following basic techniques: Logistic regression, k-nearest neighbors (kNN), Decision Tree, Random Forests. 
+In order to complete this project, we have an annotated dataset where each record corresponds to a sentence and the indication of its level. At first, we worked on these data without using any data cleaning technique. We vectorized the sentences using TFIDF and tried with the following basic techniques: Logistic regression, k-nearest neighbors (kNN), Decision Tree, Random Forests. 
 
 | id | sentence |difficulty|
 | ------------- | ------------- |----------|
