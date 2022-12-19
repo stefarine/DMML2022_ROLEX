@@ -38,10 +38,10 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 ## Summary of results table
 |  | Logistic regression |kNN	| Decision Tree | Random Forests |camemBERT|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |0.4645|x| x | x |x|
-| Recall |0.4677|x| x | x |x|
-| F1-score | 0.4640|x| x | x |x|
-| Accuracy | 0.4667 |x| x | x |x|
+| Precision |0.4645|0.4007| x | x |x|
+| Recall |0.4677|0.3138| x | x |x|
+| F1-score | 0.4640|0.3022| x | x |x|
+| Accuracy | 0.4667 |0.3187| x | x |x|
 
 					
 					
