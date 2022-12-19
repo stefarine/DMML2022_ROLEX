@@ -6,7 +6,7 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 ## Participants
 Mariam Davis
 
-[Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/)
+[Michalis Vlachos](https://www.linkedin.com/in/michalis-vlachos/](https://www.linkedin.com/in/stéphane-pacheco-fernandes)
 [Stephane Pacheco Fernandes] (https://www.linkedin.com/in/stéphane-pacheco-fernandes)
 
 
