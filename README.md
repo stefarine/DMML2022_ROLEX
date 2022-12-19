@@ -6,7 +6,7 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 ## Participants
 Mariam Davis
 
-[Stephane Pacheco Fernandes] (https://www.linkedin.com/in/st%C3%A9phane-pacheco-fernandes)
+[Stephane Pacheco Fernandes] (https://www.linkedin.com/in/stéphane-pacheco-fernandes)
 
 
  
