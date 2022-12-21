@@ -9,7 +9,9 @@ Within the context of the [Data Mining and Machine Learning](https://hecnet.unil
 ## Participants
 [Mariam Davis](https://www.linkedin.com/in/mariam-davis-439385209/)
 - Bsc Management, HEC Lausanne - University of Lausanne
-- Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne 
+- Msc Information Systems and Digital Innovation, HEC Lausanne - University of Lausanne
+
+My name is Mariam and I'm 22 years old. I come from a multicultural background, with Australian, Syrian, and Moroccan origins. I enjoy traveling, exploring new ways of thinking, reading, and, it goes without saying, my favorite class, Data Mining and Machine Learning ;)
 
 [Stéphane Pacheco Fernandes](https://www.linkedin.com/in/stéphane-pacheco-fernandes)
 - Bsc Infomation Systems, University of Geneva
