@@ -37,7 +37,7 @@ Then, we tried to combine several models to obtain better results by implementin
 Finally, we chose a radically different method using a BERT (Bidirectional Encoder Representations from Transformers); this is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. We specifically used camemBERT, which is very well adapted for pre-training in French.
 
 
-## Summary of results table
+## Summary of results tables
 |  | Logistic regression |kNN	| Decision Tree | Random Forests |LinearSVC|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
 | Precision |0.4645|0.4007| 0.2987 | 0.4223 |0.4767|
