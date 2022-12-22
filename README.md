@@ -47,10 +47,10 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 |  | LinearSVC |MultinomialNB	| LogReg+MNB | Doc2Vec + LogRegCV |CamemBERT|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |0.4767|0.5014| 0.4829 | 0.6244 |x|
-| Recall |0.4769|0.4839| 0.4818 | 0.6227 |x|
-| F1-score | 0.4737|0.4795| 0.4773 | 0.6202 |x|
-| Accuracy | 0.4760 |0.4823| 0.4802 | 0.6208 |x|
+| Precision |0.4767|0.5014| 0.4829 | 0.6244 |0.6108|
+| Recall |0.4769|0.4839| 0.4818 | 0.6227 |0.6095|
+| F1-score | 0.4737|0.4795| 0.4773 | 0.6202 |0.5997|
+| Accuracy | 0.4760 |0.4823| 0.4802 | 0.6208 |0.6046|
 
 					
 					
