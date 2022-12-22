@@ -45,7 +45,7 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 | F1-score | 0.4640|0.3450| 0.2947 | 0.4014 |0.4703|
 | Accuracy | 0.4667 |0.3542| 0.3000 | 0.4135 |0.4729|
 
-|  | LinearSVC |MultinomialNB	| Ensemble (LogReg+MNB) | Doc2Vec + LogReg |CamemBERT|
+|  | LinearSVC |MultinomialNB	| LogReg+MNB | Doc2Vec + LogReg |CamemBERT|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
 | Precision |0.4767|0.5014| 0.4829 | x |x|
 | Recall |0.4769|0.4839| 0.4818 | x |x|
