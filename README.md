@@ -66,3 +66,8 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 - [Ensemble methods](https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61)
 - [BERT](https://datascientest.com/bert-un-outil-de-traitement-du-langage-innovant)
 - [CamemBERT](https://camembert-model.fr/)
+- [Traitement Automatique du Langage Naturel en français ](https://www.stat4decision.com/fr/traitement-langage-naturel-francais-tal-nlp/)
+- [SpaCy Basics](https://towardsdatascience.com/spacy-basics-4b606a70f97b)
+- [Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context](https://arxiv.org/abs/1606.08425)
+- [Predicting and Analyzing Language Specificity in Social Media Posts](https://ojs.aaai.org//index.php/AAAI/article/view/4605)
+- [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
