@@ -63,6 +63,8 @@ The solution with doc2vec seems to give very good results. However, this is due 
 
 
 ## Explainatory video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 ## Sources
 
