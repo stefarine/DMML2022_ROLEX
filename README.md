@@ -52,6 +52,10 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 | F1-score | 0.4737|0.4795| 0.4773 | 0.6202 |0.5997|
 | Accuracy | 0.4760 |0.4823| 0.4802 | 0.6208 |0.6046|
 
+Above, two tables presenting our results by evaluating on the training set (split 80/20). If we exclude the last two models, the best solution is Multinomial NB. 
+
+The solution with doc2vec seems to give very good results. However, this is due to overfitting because the results on the unannotated data are well below (around 0.42). CamemBERT gives us the best results, we can't fix the random state for this type of model, so the accuracy on our training set varies between 0.53 and 0.61 depending on the attempts. The best result we obtained on the unannotated set is 0.59.
+
 					
 					
 					
