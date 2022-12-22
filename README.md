@@ -71,3 +71,8 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 - [Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context](https://arxiv.org/abs/1606.08425)
 - [Predicting and Analyzing Language Specificity in Social Media Posts](https://ojs.aaai.org//index.php/AAAI/article/view/4605)
 - [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
+- [FlauBERT](https://github.com/getalp/Flaubert)
+- [Hyperparameter Optimization](https://d2l.ai/chapter_hyperparameter-optimization/index.html)
+- [How to tune Pytorch Lightning hyperparameters](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
+- [Implementing multi-class text classification with Doc2Vec](https://towardsdatascience.com/implementing-multi-class-text-classification-with-doc2vec-df7c3812824d)
+- [Doc2Vec Model](https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html)
