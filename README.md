@@ -59,20 +59,4 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 
 ## Explainatory video
-## Sources
-- [Course GitHub](https://github.com/michalis0/DataMining_and_MachineLearning)
-- [kNN Hyperparameter Optimization](https://www.kaggle.com/code/arunimsamudra/k-nn-with-hyperparameter-tuning)
-- [LinearSVC & MultinomialNB](https://www.analyticsvidhya.com/blog/2021/11/a-guide-to-building-an-end-to-end-multiclass-text-classification-model/)
-- [Ensemble methods](https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61)
-- [BERT](https://datascientest.com/bert-un-outil-de-traitement-du-langage-innovant)
-- [CamemBERT](https://camembert-model.fr/)
-- [Traitement Automatique du Langage Naturel en français ](https://www.stat4decision.com/fr/traitement-langage-naturel-francais-tal-nlp/)
-- [SpaCy Basics](https://towardsdatascience.com/spacy-basics-4b606a70f97b)
-- [Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context](https://arxiv.org/abs/1606.08425)
-- [Predicting and Analyzing Language Specificity in Social Media Posts](https://ojs.aaai.org//index.php/AAAI/article/view/4605)
-- [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
-- [FlauBERT](https://github.com/getalp/Flaubert)
-- [Hyperparameter Optimization](https://d2l.ai/chapter_hyperparameter-optimization/index.html)
-- [How to tune Pytorch Lightning hyperparameters](https://towardsdatascience.com/how-to-tune-pytorch-lightning-hyperparameters-80089a281646)
-- [Implementing multi-class text classification with Doc2Vec](https://towardsdatascience.com/implementing-multi-class-text-classification-with-doc2vec-df7c3812824d)
-- [Doc2Vec Model](https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html)
+
