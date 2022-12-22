@@ -60,3 +60,5 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 ## Explainatory video
 
+##Sources
+Our sources are available [here](https://github.com/stefarine/DMML2022_ROLEX/blob/main/documentation/sources.md#sources)
