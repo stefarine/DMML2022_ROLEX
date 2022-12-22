@@ -38,19 +38,19 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 
 
 ## Summary of results tables
-|  | Logistic regression |kNN	| Decision Tree | Random Forests |LinearSVC|
+|  | Logistic regression |kNN	| Decision Tree | Random Forests |LogRegCV|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |0.4645|0.4197| 0.2987 | 0.4223 |0.4767|
-| Recall |0.4677|0.3543| 0.3009 | 0.4165 |0.4769|
-| F1-score | 0.4640|0.3450| 0.2947 | 0.4014 |0.4737|
-| Accuracy | 0.4667 |0.3542| 0.3000 | 0.4135 |0.4760|
+| Precision |0.4645|0.4197| 0.2987 | 0.4223 |0.4723|
+| Recall |0.4677|0.3543| 0.3009 | 0.4165 |0.4747|
+| F1-score | 0.4640|0.3450| 0.2947 | 0.4014 |0.4703|
+| Accuracy | 0.4667 |0.3542| 0.3000 | 0.4135 |0.4729|
 
-|  | MultinomialNB|LR + MNB	| x | x |CamemBERT|
+|  | LinearSVC |MultinomialNB	| Ensemble (LogReg+MNB) | Doc2Vec + LogReg |CamemBERT|
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |0.5014|0.4829| x | x |x|
-| Recall |0.4839|0.4818| x | x |x|
-| F1-score | 0.4795|0.4773| x | x |x|
-| Accuracy | 0.4823 |0.4802| x | x |x|
+| Precision |0.4767|0.5014| 0.4829 | x |x|
+| Recall |0.4769|0.4839| 0.4818 | x |x|
+| F1-score | 0.4737|0.4795| 0.4773 | x |x|
+| Accuracy | 0.4760 |0.4823| 0.4802 | x |x|
 
 					
 					
