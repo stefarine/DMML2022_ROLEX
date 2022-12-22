@@ -64,7 +64,7 @@ The solution with doc2vec seems to give very good results. However, this is due 
 
 ## Explainatory video
 [![vid](https://img.youtube.com/vi/thEO-lqrdDw/0.jpg)](https://www.youtube.com/watch?v=thEO-lqrdDw)
--
+
 [https://www.youtube.com/watch?v=thEO-lqrdDw](https://www.youtube.com/watch?v=thEO-lqrdDw)
 
 
