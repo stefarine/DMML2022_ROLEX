@@ -64,4 +64,5 @@ Finally, we chose a radically different method using a BERT (Bidirectional Encod
 - [kNN Hyperparameter Optimization](https://www.kaggle.com/code/arunimsamudra/k-nn-with-hyperparameter-tuning)
 - [LinearSVC & MultinomialNB](https://www.analyticsvidhya.com/blog/2021/11/a-guide-to-building-an-end-to-end-multiclass-text-classification-model/)
 - [Ensemble methods](https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61)
+- [BERT](https://datascientest.com/bert-un-outil-de-traitement-du-langage-innovant)
 - [CamemBERT](https://camembert-model.fr/)
